@@ -1,7 +1,6 @@
 Dnsmasq Docker Image based on Alpine OS (5.883MB)
 ---------------------------------------------------------
 [![CircleCI](https://img.shields.io/circleci/project/sqerison/dnsmasq.svg)](https://circleci.com/gh/sqerison/dnsmasq)
-[![ImageLayers Size](https://img.shields.io/imagelayers/image-size/sqerison/dnsmasq/1.svg)](https://circleci.com/gh/sqerison/dnsmasq/1)
 [![Docker Pulls](https://img.shields.io/docker/pulls/sqerison/dnsmasq.svg)](https://hub.docker.com/r/sqerison/dnsmasq/)
 
 Versions latest – built on [Alpine Linux](https://alpinelinux.org/).
